@@ -70,5 +70,12 @@
         "key": "485",
         "expirydate": "05-11-2025",
         "Allowoffline": true
-    }
+    },
+{
+        "device_id": "4b155293312635b7",
+        "key": "ss485",
+        "expirydate": "05-11-2025",
+        "Allowoffline": true
+    },
+
 ]
